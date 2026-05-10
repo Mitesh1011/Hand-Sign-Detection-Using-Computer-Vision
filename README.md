@@ -39,8 +39,8 @@ This project is a real-time Hand Sign Detection System developed using Python, O
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/hand-sign-detection.git
-cd hand-sign-detection
+git clone https://github.com/Mitesh1011/Hand-Sign-Detection-Using-Computer-Vision.git
+cd Hand-Sign-Detection-Using-Computer-Vision
 ```
 
 Install dependencies:
