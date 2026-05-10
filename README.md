@@ -29,6 +29,9 @@ This project is a real-time Hand Sign Detection System developed using Python, O
 │   ├── keras_model.h5
 │   └── labels.txt
 │
+├── Video/
+│   └── Hand sign Detection.mp4
+│
 ├── dataCollection.py
 ├── test.py
 └── README.md
